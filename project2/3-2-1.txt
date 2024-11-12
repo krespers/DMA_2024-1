@@ -1,0 +1,85 @@
+User ID 2bZ4xxQGSln_LpRVG0smoQ top-5 results
+Restaurant name 182    스시카나에
+Name: restaurant_name, dtype: object
+	score 5.0
+Restaurant name 544    CESTA 세스타
+Name: restaurant_name, dtype: object
+	score 5.0
+Restaurant name 726    스시잇센
+Name: restaurant_name, dtype: object
+	score 5.0
+Restaurant name 2510    야키토리스미카
+Name: restaurant_name, dtype: object
+	score 5.0
+Restaurant name 4382    에노테카오토
+Name: restaurant_name, dtype: object
+	score 5.0
+
+User ID WHA89VBJuWWkRAID0C6zCw top-5 results
+Restaurant name 25    스시우미 잠실
+Name: restaurant_name, dtype: object
+	score 5.0
+Restaurant name 166    스시이로
+Name: restaurant_name, dtype: object
+	score 5.0
+Restaurant name 182    스시카나에
+Name: restaurant_name, dtype: object
+	score 5.0
+Restaurant name 374    어물전 청 도산점
+Name: restaurant_name, dtype: object
+	score 5.0
+Restaurant name 548    비스트로 앤트로
+Name: restaurant_name, dtype: object
+	score 5.0
+
+User ID iqtGbG_2mBe_TVWDQZJmNQ top-5 results
+Restaurant name 937    청담 긴자블루 
+Name: restaurant_name, dtype: object
+	score 5.0
+Restaurant name 1316    텐지몽
+Name: restaurant_name, dtype: object
+	score 5.0
+Restaurant name 1364    불래
+Name: restaurant_name, dtype: object
+	score 5.0
+Restaurant name 2043    복덕방막걸리집
+Name: restaurant_name, dtype: object
+	score 5.0
+Restaurant name 839    스이세한남
+Name: restaurant_name, dtype: object
+	score 4.85
+
+User ID kN5wr4aaOJWIRvbJZamO6Q top-5 results
+Restaurant name 215    디해방 D HAEBANG
+Name: restaurant_name, dtype: object
+	score 5.0
+Restaurant name 1015    레스토랑 주은
+Name: restaurant_name, dtype: object
+	score 5.0
+Restaurant name 1763    Bogl(보글)
+Name: restaurant_name, dtype: object
+	score 4.7
+Restaurant name 541    청담나인 NINE live
+Name: restaurant_name, dtype: object
+	score 4.5
+Restaurant name 60    스시코우지
+Name: restaurant_name, dtype: object
+	score 4.3
+
+User ID sHp92HPhfEused1lDyY5FA top-5 results
+Restaurant name 25    스시우미 잠실
+Name: restaurant_name, dtype: object
+	score 5.0
+Restaurant name 166    스시이로
+Name: restaurant_name, dtype: object
+	score 5.0
+Restaurant name 182    스시카나에
+Name: restaurant_name, dtype: object
+	score 5.0
+Restaurant name 374    어물전 청 도산점
+Name: restaurant_name, dtype: object
+	score 5.0
+Restaurant name 544    CESTA 세스타
+Name: restaurant_name, dtype: object
+	score 5.0
+

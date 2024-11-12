@@ -1,0 +1,67 @@
+User ID 2bZ4xxQGSln_LpRVG0smoQ top-5 results
+Restaurant name 2533    갤러리 더 스퀘어 계동점
+Name: restaurant_name, dtype: object
+	score 3.442955416562797
+Restaurant name 916    스기모토
+Name: restaurant_name, dtype: object
+	score 2.8583207831325304
+Restaurant name 712    KANG MINCHUL Restaurant
+Name: restaurant_name, dtype: object
+	score 2.8583207831325304
+Restaurant name 1015    레스토랑 주은
+Name: restaurant_name, dtype: object
+	score 2.8583207831325304
+Restaurant name 360    제이엘 디저트바
+Name: restaurant_name, dtype: object
+	score 0.6232005555456416
+
+User ID WHA89VBJuWWkRAID0C6zCw top-5 results
+Restaurant name 208    민규 삼성점
+Name: restaurant_name, dtype: object
+	score 2.8583207831325304
+Restaurant name 434    옳음 OLH EUM
+Name: restaurant_name, dtype: object
+	score 0.5
+
+User ID iqtGbG_2mBe_TVWDQZJmNQ top-5 results
+Restaurant name 1267    비놀로지 VINOLOGY
+Name: restaurant_name, dtype: object
+	score 2.8583207831325304
+Restaurant name 1511    다이닝고
+Name: restaurant_name, dtype: object
+	score 0.5
+
+User ID kN5wr4aaOJWIRvbJZamO6Q top-5 results
+Restaurant name 182    스시카나에
+Name: restaurant_name, dtype: object
+	score 5.0
+Restaurant name 182    스시카나에
+Name: restaurant_name, dtype: object
+	score 5.0
+Restaurant name 472    웨스틴조선서울 홍연
+Name: restaurant_name, dtype: object
+	score 2.8583207831325304
+Restaurant name 3652    오젠
+Name: restaurant_name, dtype: object
+	score 2.8583207831325304
+Restaurant name 509    첸트로
+Name: restaurant_name, dtype: object
+	score 0.5
+
+User ID sHp92HPhfEused1lDyY5FA top-5 results
+Restaurant name 445    타쿠미곤
+Name: restaurant_name, dtype: object
+	score 3.831085476047744
+Restaurant name 963    스시언
+Name: restaurant_name, dtype: object
+	score 3.4391578030244907
+Restaurant name 269    오만지아
+Name: restaurant_name, dtype: object
+	score 3.0224825497277683
+Restaurant name 269    오만지아
+Name: restaurant_name, dtype: object
+	score 3.0224825497277683
+Restaurant name 269    오만지아
+Name: restaurant_name, dtype: object
+	score 3.0224825497277683
+

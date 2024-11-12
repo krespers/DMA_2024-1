@@ -1,0 +1,67 @@
+User ID 2bZ4xxQGSln_LpRVG0smoQ top-5 results
+Restaurant name 2533    갤러리 더 스퀘어 계동점
+Name: restaurant_name, dtype: object
+	score 3.966234031599897
+Restaurant name 295    더나인클럽
+Name: restaurant_name, dtype: object
+	score 3.028455146240579
+Restaurant name 916    스기모토
+Name: restaurant_name, dtype: object
+	score 2.762212062375706
+Restaurant name 712    KANG MINCHUL Restaurant
+Name: restaurant_name, dtype: object
+	score 2.762212062375706
+Restaurant name 1015    레스토랑 주은
+Name: restaurant_name, dtype: object
+	score 2.762212062375706
+
+User ID WHA89VBJuWWkRAID0C6zCw top-5 results
+Restaurant name 434    옳음 OLH EUM
+Name: restaurant_name, dtype: object
+	score 3.1280047494385332
+Restaurant name 208    민규 삼성점
+Name: restaurant_name, dtype: object
+	score 2.859828140163804
+
+User ID iqtGbG_2mBe_TVWDQZJmNQ top-5 results
+Restaurant name 1511    다이닝고
+Name: restaurant_name, dtype: object
+	score 3.0738198716945684
+Restaurant name 1267    비놀로지 VINOLOGY
+Name: restaurant_name, dtype: object
+	score 2.7333953200876158
+
+User ID kN5wr4aaOJWIRvbJZamO6Q top-5 results
+Restaurant name 182    스시카나에
+Name: restaurant_name, dtype: object
+	score 4.961465080677955
+Restaurant name 182    스시카나에
+Name: restaurant_name, dtype: object
+	score 4.961465080677955
+Restaurant name 509    첸트로
+Name: restaurant_name, dtype: object
+	score 3.5025024631300026
+Restaurant name 160    페코리노
+Name: restaurant_name, dtype: object
+	score 2.827042927180679
+Restaurant name 472    웨스틴조선서울 홍연
+Name: restaurant_name, dtype: object
+	score 2.7226407006336166
+
+User ID sHp92HPhfEused1lDyY5FA top-5 results
+Restaurant name 445    타쿠미곤
+Name: restaurant_name, dtype: object
+	score 3.8624364678476595
+Restaurant name 963    스시언
+Name: restaurant_name, dtype: object
+	score 3.264067721729751
+Restaurant name 737    Truffle di Alba (트러플 디 알바)
+Name: restaurant_name, dtype: object
+	score 3.179097924678529
+Restaurant name 223    제주 더스푼
+Name: restaurant_name, dtype: object
+	score 3.1747529067426736
+Restaurant name 269    오만지아
+Name: restaurant_name, dtype: object
+	score 2.990541582579104
+

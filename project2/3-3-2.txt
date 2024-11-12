@@ -1,0 +1,45 @@
+Restaurant name 3    로우앤슬로우
+Name: restaurant_name, dtype: object top-5 results
+User ID JI_V9qs1JocrUphkg1fkYw
+	score 2.0875
+User ID Ap3sazzjG3qGt6SvoEIAVA
+	score 2.0875
+
+Restaurant name 16    부베트 서울
+Name: restaurant_name, dtype: object top-5 results
+User ID YaJU4UeLujMhmP3LIINHjQ
+	score 2.8583207831325304
+User ID EN5DNTI03ILbupoGZ5Dyxw
+	score 2.7173913043478253
+
+Restaurant name 0    고든램지버거 롯데월드몰점
+Name: restaurant_name, dtype: object top-5 results
+User ID sHp92HPhfEused1lDyY5FA
+	score 2.8630983168163153
+User ID TcHyEOEmA46ZVkzn7DpFMw
+	score 2.8583207831325304
+User ID Wk3fMI2hpXzzBl0GjXAL6g
+	score 2.8583207831325304
+User ID bvdcVpsTAyu_-AhH5S1TeQ
+	score 2.8583207831325304
+User ID e0RAkMXfq_g2gjg5QmBC5A
+	score 2.8583207831325304
+
+Restaurant name 94    산리오 러버스 클럽 홍대점
+Name: restaurant_name, dtype: object top-5 results
+User ID f62LojEp2y3eW6RZYXTOgQ
+	score 2.8583207831325304
+User ID Zs4VuddB53GN4zBeqkJPrA
+	score 2.8047619047619046
+
+Restaurant name 4    웨스틴조선서울 아리아
+Name: restaurant_name, dtype: object top-5 results
+User ID ACr_uqsHkHGoIqK7pFrQmQ
+	score 3.2157894736842105
+User ID v462vHzMow6LtghM5MWX7g
+	score 3.2157894736842105
+User ID VPnjpUwZ9gony5CC-TsVtA
+	score 2.8583207831325304
+User ID KYvPPTaOoBdHkuHnb5KDRg
+	score 2.8583207831325304
+

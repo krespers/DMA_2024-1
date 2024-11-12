@@ -1,0 +1,85 @@
+User ID 2bZ4xxQGSln_LpRVG0smoQ top-5 results
+Restaurant name 82    스시츠바사
+Name: restaurant_name, dtype: object
+	score 3.06
+Restaurant name 0    고든램지버거 롯데월드몰점
+Name: restaurant_name, dtype: object
+	score 2.935
+Restaurant name 1    스시소라 서초점
+Name: restaurant_name, dtype: object
+	score 2.935
+Restaurant name 2    키친마이야르
+Name: restaurant_name, dtype: object
+	score 2.935
+Restaurant name 3    로우앤슬로우
+Name: restaurant_name, dtype: object
+	score 2.935
+
+User ID WHA89VBJuWWkRAID0C6zCw top-5 results
+Restaurant name 1364    불래
+Name: restaurant_name, dtype: object
+	score 5.0
+Restaurant name 445    타쿠미곤
+Name: restaurant_name, dtype: object
+	score 3.9364745011086475
+Restaurant name 1249    조우 朝牛
+Name: restaurant_name, dtype: object
+	score 3.7864745011086476
+Restaurant name 76    스키야키 타카
+Name: restaurant_name, dtype: object
+	score 3.3864745011086472
+Restaurant name 1576    류니끄
+Name: restaurant_name, dtype: object
+	score 3.3864745011086472
+
+User ID iqtGbG_2mBe_TVWDQZJmNQ top-5 results
+Restaurant name 335    SOIGNE
+Name: restaurant_name, dtype: object
+	score 4.0261874197689345
+Restaurant name 445    타쿠미곤
+Name: restaurant_name, dtype: object
+	score 3.876187419768934
+Restaurant name 1249    조우 朝牛
+Name: restaurant_name, dtype: object
+	score 3.726187419768934
+Restaurant name 76    스키야키 타카
+Name: restaurant_name, dtype: object
+	score 3.326187419768934
+Restaurant name 1576    류니끄
+Name: restaurant_name, dtype: object
+	score 3.326187419768934
+
+User ID kN5wr4aaOJWIRvbJZamO6Q top-5 results
+Restaurant name 0    고든램지버거 롯데월드몰점
+Name: restaurant_name, dtype: object
+	score 2.926086956521739
+Restaurant name 1    스시소라 서초점
+Name: restaurant_name, dtype: object
+	score 2.926086956521739
+Restaurant name 2    키친마이야르
+Name: restaurant_name, dtype: object
+	score 2.926086956521739
+Restaurant name 3    로우앤슬로우
+Name: restaurant_name, dtype: object
+	score 2.926086956521739
+Restaurant name 4    웨스틴조선서울 아리아
+Name: restaurant_name, dtype: object
+	score 2.926086956521739
+
+User ID sHp92HPhfEused1lDyY5FA top-5 results
+Restaurant name 1    스시소라 서초점
+Name: restaurant_name, dtype: object
+	score 4.881707317073171
+Restaurant name 374    어물전 청 도산점
+Name: restaurant_name, dtype: object
+	score 4.881707317073171
+Restaurant name 2090    술수
+Name: restaurant_name, dtype: object
+	score 4.831707317073171
+Restaurant name 1267    비놀로지 VINOLOGY
+Name: restaurant_name, dtype: object
+	score 4.673812580231067
+Restaurant name 1763    Bogl(보글)
+Name: restaurant_name, dtype: object
+	score 4.613525498891352
+
